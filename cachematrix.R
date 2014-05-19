@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## Further changes.  That will show up
 
 makeCacheMatrix <- function(x = matrix()) {
 
@@ -13,6 +13,6 @@ makeCacheMatrix <- function(x = matrix()) {
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
-getwd()
+
 
 
